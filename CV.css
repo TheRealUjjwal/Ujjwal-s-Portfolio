@@ -1,3 +1,6 @@
+nowrap {
+    white-space: nowrap;
+}
 #div_top_hypers {
     background-color:#eeeeee;
     display:inline;      
