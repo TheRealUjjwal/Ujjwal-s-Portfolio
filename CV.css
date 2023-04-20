@@ -8,3 +8,6 @@ nowrap {
 #ul_top_hypers li{
     display: inline;
 }
+div.c {
+    text-align: justify;
+  } 
