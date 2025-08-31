@@ -42,12 +42,5 @@ You can view the hosted version here:
 
 ---
 
-## 📬 Contact
-- **Email**: gupta262ujjwal@gmail.com  
-- **LinkedIn**: [linkedin.com/in/ujjwal-gupta-0974641b4](https://www.linkedin.com/in/ujjwal-gupta-0974641b4/)  
-- **GitHub**: [github.com/TheRealUjjwal](https://github.com/TheRealUjjwal)  
-
----
-
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
