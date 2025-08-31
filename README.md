@@ -1,5 +1,4 @@
 # Ujjwal-s-Portfolio
-# Resume Website
 
 This is a simple, responsive **Resume Website** built using **HTML** and **CSS**.  
 It highlights my education, skills, experience, projects, and achievements in a clean portfolio format.
